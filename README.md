@@ -23,19 +23,14 @@ Definição do layout do aplicativo: O layout do aplicativo é definido com tít
 Como Executar
 Clone o repositório:
 
-bash
-Copiar código
 git clone <URL_DO_REPOSITORIO>
 cd <DIRETORIO_DO_REPOSITORIO>
 Instale as dependências: Certifique-se de ter Python instalado e, em seguida, instale as bibliotecas necessárias:
 
-bash
-Copiar código
+
 pip install dash plotly pandas openpyxl
 Execute o aplicativo:
 
-bash
-Copiar código
 python <NOME_DO_ARQUIVO>.py
 Acesse o aplicativo: Abra um navegador e acesse http://127.0.0.1:8050/.
 
