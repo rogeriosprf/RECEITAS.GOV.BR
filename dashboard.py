@@ -50,7 +50,7 @@ grafico_previsto_vs_realizado.update_traces(textposition='top center')
 
 # Define o app
 app.layout = html.Div(children=[
-    html.H1(children="Relatório de Receitas"),
+    html.H1(children="Relatório de Receitas do Governo Brasileiro (2014 - 2024)"),
 
     dcc.Graph(
         id="TotalporAno",
